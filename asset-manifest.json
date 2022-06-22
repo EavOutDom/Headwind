@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Headwind/static/css/main.f247cc50.css",
+    "main.js": "/Headwind/static/js/main.7f7c7bcf.js",
+    "index.html": "/Headwind/index.html",
+    "main.f247cc50.css.map": "/Headwind/static/css/main.f247cc50.css.map",
+    "main.7f7c7bcf.js.map": "/Headwind/static/js/main.7f7c7bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f247cc50.css",
+    "static/js/main.7f7c7bcf.js"
+  ]
+}
